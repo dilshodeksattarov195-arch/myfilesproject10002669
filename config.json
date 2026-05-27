@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpncrypt",
+        "uuid": 24466723,
+        "checksum": "s1f7km"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
